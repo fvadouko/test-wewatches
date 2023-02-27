@@ -66,3 +66,4 @@ cocker compose up -d
 set up database url directly on heroku
 
 install pg
+Fix bug on reality
