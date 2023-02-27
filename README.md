@@ -64,6 +64,3 @@ to test like in prod
 cocker compose up -d
 
 set up database url directly on heroku
-
-install pg
-Fix bug on reality 1 abd 2
