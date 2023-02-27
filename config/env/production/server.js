@@ -1,6 +1,6 @@
 module.exports = ({ env }) => ({
   url: env("WEBSITE_URL"),
-  port: process.env.PORT,
+  proxy: true,
   app: {
     keys: env.array("APP_KEYS", [
       "xK3ahudoDuLGx8gRp3FSew==",
