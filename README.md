@@ -62,3 +62,5 @@ yarn developp
 
 to test like in prod
 cocker compose up -d
+
+set up database url directly on heroku
