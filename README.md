@@ -59,3 +59,6 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 to test in local
 docker-compose up -d strapiDB
 yarn developp
+
+to test like in prod
+cocker compose up -d
